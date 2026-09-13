@@ -1,0 +1,1 @@
+Gonzalo Fredy Puelles Zapata 11 de septiembre de 2026 Aprendí a instalar y configurar Anaconda, R/RStudio y Git/GitHub, y a hacer mi primer commit y push a un repositorio remoto.
