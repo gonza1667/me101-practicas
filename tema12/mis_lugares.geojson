@@ -4,39 +4,52 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Cristo Blanco"
+        "nombre": "Mi casa (San Sebastián)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.9781,
-          -13.5097
+          -71.939,
+          -13.5267
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Qenqo"
+        "nombre": "UNSAAC"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.9717,
-          -13.5106
+          -71.9578,
+          -13.52
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Plazoleta de San Blas"
+        "nombre": "Coya (Calca)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.9743,
-          -13.5152
+          -71.9031,
+          -13.3883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Plaza de Armas Cusco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9788,
+          -13.5168
         ]
       }
     }
